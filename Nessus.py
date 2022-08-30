@@ -12,7 +12,7 @@ class Nessus:
 		self.type = 'expert'.upper()
 		self.version = '10.3 or later'
 		self.Author = 'Adriatik a.k.a'
-		self.Repo = 'github.com/AdriatikMehmeti/Nessus_pack'
+		self.Repo = 'github.com/AdriatikMehmeti/NessusPack'
 		self.Last_update = '28 Gushte 2022'
 		self.Title = self.tool + 'Pack'
 
